@@ -1,6 +1,6 @@
 def binary_search(lst, element):
     """
-    Search the whole list to find the element's index.
+    Purpose: Search the whole list to find the element's index.
 
     Arguments:
         lst (list): An array of elements.
