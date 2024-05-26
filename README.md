@@ -1,1 +1,1 @@
-thithis is the first repository related to the algorithms.
+this is the first repository related to the algorithms.
