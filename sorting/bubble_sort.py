@@ -1,6 +1,6 @@
 def bubble_sort(arr):
     """
-    Accepts : it takes an array of length n
+    Arguments : it takes an array of length n
 
     purpose : it sorts an array
 
